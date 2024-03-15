@@ -161,7 +161,7 @@ nav.mobile ul li a:hover{
 
 
 #bars {
-    /* display: none; */
+    display: none;
     position: absolute;
 }
 
