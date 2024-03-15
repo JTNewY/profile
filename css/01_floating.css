@@ -177,7 +177,7 @@ nav.mobile ul li a:hover{
     transform-origin: top left;
 }
 #bars:checked ~ header .bars .mid{
-    /* display: none; */
+    display: none;
     opacity: 0;
     transform: all 0.4s;
 }
